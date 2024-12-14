@@ -1,0 +1,1 @@
+dynamic for using react
